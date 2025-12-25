@@ -1,2 +1,2 @@
 # SmartHome
-https://dilip02jaiswar.github.io/SmartHome/
+https://Dilipjaiswar24.github.io/SmartHome/
